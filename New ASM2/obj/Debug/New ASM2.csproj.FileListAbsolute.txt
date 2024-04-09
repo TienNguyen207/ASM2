@@ -1,0 +1,20 @@
+C:\Users\ADMIN\source\repos\New ASM2\New ASM2\bin\Debug\New ASM2.exe.config
+C:\Users\ADMIN\source\repos\New ASM2\New ASM2\bin\Debug\New ASM2.exe
+C:\Users\ADMIN\source\repos\New ASM2\New ASM2\bin\Debug\New ASM2.pdb
+C:\Users\ADMIN\source\repos\New ASM2\New ASM2\obj\Debug\New ASM2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\New ASM2\New ASM2\obj\Debug\New_ASM2.Form1.resources
+C:\Users\ADMIN\source\repos\New ASM2\New ASM2\obj\Debug\New_ASM2.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\New ASM2\New ASM2\obj\Debug\New ASM2.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\New ASM2\New ASM2\obj\Debug\New ASM2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\New ASM2\New ASM2\obj\Debug\New ASM2.exe
+C:\Users\ADMIN\source\repos\New ASM2\New ASM2\obj\Debug\New ASM2.pdb
+C:\Users\ADMIN\Desktop\Co Hanh\New ASM2\New ASM2\bin\Debug\New ASM2.exe.config
+C:\Users\ADMIN\Desktop\Co Hanh\New ASM2\New ASM2\bin\Debug\New ASM2.exe
+C:\Users\ADMIN\Desktop\Co Hanh\New ASM2\New ASM2\bin\Debug\New ASM2.pdb
+C:\Users\ADMIN\Desktop\Co Hanh\New ASM2\New ASM2\obj\Debug\New ASM2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Co Hanh\New ASM2\New ASM2\obj\Debug\New_ASM2.Form1.resources
+C:\Users\ADMIN\Desktop\Co Hanh\New ASM2\New ASM2\obj\Debug\New_ASM2.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Co Hanh\New ASM2\New ASM2\obj\Debug\New ASM2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Co Hanh\New ASM2\New ASM2\obj\Debug\New ASM2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Co Hanh\New ASM2\New ASM2\obj\Debug\New ASM2.exe
+C:\Users\ADMIN\Desktop\Co Hanh\New ASM2\New ASM2\obj\Debug\New ASM2.pdb
